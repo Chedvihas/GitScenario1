@@ -12,3 +12,11 @@ def Division(x,y):
 
 def Multiply(x,y):
 	return x*y
+
+def Power(x,y):
+	if(a==0 and b==0):
+		print('Invalid inputs for a and b')
+	elif(a==0 and b==-1):
+		print('Invalid inputs')
+	else:
+		return a^b

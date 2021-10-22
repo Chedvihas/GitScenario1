@@ -19,4 +19,4 @@ def Power(x,y):
 	elif(a==0 and b==-1):
 		print('Invalid inputs')
 	else:
-		return a^b
+		return a**b

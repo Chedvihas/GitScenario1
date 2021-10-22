@@ -9,3 +9,6 @@ def Division(x,y):
 		return x/y
 	else:
 		print('Invalid input for denominator')		
+
+def Multiply(x,y):
+	return x*y
